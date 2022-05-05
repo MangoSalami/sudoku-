@@ -1,5 +1,6 @@
 # sudoku-
 
+[Click Here](https://mangosalami.github.io/sudoku-/sudoku/) to play sudoku
 
 sudoku game created using html/css and javascript
 
